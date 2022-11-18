@@ -1,0 +1,4 @@
+wget https://github.com/prabath/wso2is-repo-explorer/raw/master/rex.sh
+chmod +x rex.sh
+
+./rex.sh find org.wso2.carbon.identity.authenticator.mutualssl
